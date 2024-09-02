@@ -75,7 +75,7 @@ const Tools = () => {
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <SiGithub size={50}/>
-                                <SiGit size={50}/>
+                                <SiNetlify size={50}/>
                                 <SiGooglecolab size={50}/>
                                 <SiAnaconda size={50}/>
                                 <SiUpwork size={50}/>
