@@ -8,7 +8,7 @@ import {
     SiAdobephotoshop, SiAnaconda, SiAndroidstudio, SiAstro, SiBun, SiCinema4D, SiCplusplus, SiCsharp, SiExpress, SiFigma, SiFramer, SiGit,
     SiGithub,
     SiGooglechrome, SiGooglecolab, SiGooglefonts,
-    SiGooglescholar,
+    SiNetlify,
     SiHtml5,
     SiIntellijidea, SiJavascript, SiKotlin, SiLua,
     SiMongodb,
